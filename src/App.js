@@ -20,7 +20,7 @@ function App() {
           <Route path='/' element={<Homepage />} />
           <Route
             path='/sortingalgo'
-            element={<Sortingalgo />}
+            element={<Sortingalgo/>}
           />
         <Route
             path='/PathfindingVisualizer'

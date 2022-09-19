@@ -24,14 +24,14 @@ function Footer()
                       <li>
                         <a
                           className='linkedin'
-                          href='https://www.linkedin.com/in/gkeshav1'
+                          href='https://www.linkedin.com/in/gkapish/'
                         >
                           <i className='fa fa-linkedin'></i>
                         </a>
                       </li>
                       <li>
                         <a
-                          href='https://github.com/keshav474'
+                          href='https://github.com/kapish099'
                           className='github'
                         >
                           <i className='fa fa-github'></i>
